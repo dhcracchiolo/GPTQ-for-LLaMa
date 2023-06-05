@@ -42,7 +42,7 @@ tqdm==4.65.0
 transformers @ git+https://github.com/huggingface/transformers@17846646f230fdf5b0d6b4d31248ccb418000acb
 typing_extensions==4.6.3
 tzdata==2023.3
-urllib3==2.0.2
+urllib3==1.25.10
 xxhash==3.2.0
 yarl==1.9.2
 triton==2.0.0
